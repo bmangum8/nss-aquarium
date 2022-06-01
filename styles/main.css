@@ -1,0 +1,24 @@
+
+
+/* .pageHeader {
+text-align: center;
+}
+
+.list {
+    display: flex; /*display all shops names in flex layout*/
+    /* flex-wrap: wrap; //rows wrap if there are too many */
+    /* justify-content: space-evenly;  */
+    
+/* }  */
+
+
+/*.shop {
+    flex-basis: 20%; /* each child element same width*/
+    /* border: 2px solid black;
+    padding: 5 em; 
+    margin: 1 em;
+    text-align: center; center align in text boxes  */
+/* }  */
+
+
+
